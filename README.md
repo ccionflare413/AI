@@ -1,45 +1,22 @@
-# Project name
+# Simple Calculator
 
-> A short description of what this project does.
-
-## Overview
-
-Describe the problem this project solves and who it is for.
+A lightweight four-function calculator built with HTML, CSS, and vanilla JavaScript. It runs in a browser and is hosted as a static site with GitHub Pages.
 
 ## Features
 
-- [ ] Describe the first planned feature
+- Addition, subtraction, multiplication, and division
+- Decimal numbers, sign toggle, clear, and backspace
+- Keyboard input: digits, decimal point, `+`, `-`, `*`, `/`, Enter, Backspace, and Escape
+- Chained operations are evaluated in the order entered
+- Division by zero displays `Error`
+- Responsive layout with accessible button labels and visible keyboard focus
 
-## Getting started
+## Run locally
 
-### Prerequisites
+No dependencies or build step are needed. Open `index.html` in a modern web browser.
 
-- List the tools or runtime needed to work on this project.
+## Deploy with GitHub Pages
 
-### Installation
+This repository is configured to publish from the `main` branch root. GitHub Pages automatically updates the site after changes are pushed to `main`.
 
-```text
-# Add the commands needed to install dependencies.
-```
-
-### Run locally
-
-```text
-# Add the command needed to start the project.
-```
-
-## Usage
-
-Explain how to use the application. Add screenshots or examples when available.
-
-## Development
-
-Describe how to run tests, format code, and check the project before submitting changes.
-
-## Contributing
-
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the development workflow.
-
-## License
-
-No license has been selected yet. Add a `LICENSE` file before distributing this project.
+Site URL: https://ccionflare413.github.io/AI/
